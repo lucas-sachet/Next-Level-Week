@@ -15,20 +15,20 @@ Ecoleta is a platform for waste collection for companies that allows people will
 
 
 <p align="center">
- <img width=700px src=".README/Home.jpg" alt="Home" />
+ <img width=700px src="./README/Home.jpg" alt="Home" />
 </p>
 
 
 The web application is dedicated to Companies and allows their registration and the insertion of collection points.
 
 <p align="center">
- <img width=700px src=".README/Cadastro.jpg" alt="Home" />
+ <img  src="./README/Cadastro.jpg" alt="Cadastro" />
 </p>
 
 The mobile application is intended for users who can see the list of places closest to their location to dispose of their waste. Where it is also possible to contact the Company directly by email or Whatsapp in case of any doubts.
 
 <p align="center">
- <img width=700px src=".README/mobile.jpg" alt="Home" />
+ <img width=700px src="./README/mobile.jpg" alt="Mobile" />
 </p>
 
 
