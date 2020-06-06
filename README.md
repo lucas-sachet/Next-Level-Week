@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="ecoleta" title="#ECOLETA" src=".README/Capa.jpg" width="700px" />
+    <img alt="ecoleta" title="#ECOLETA" src="./README/Capa.jpg" width="700px" />
     <p>Ecoleta</p>
 </h1>
 
